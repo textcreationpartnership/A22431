@@ -1,0 +1,289 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A treatise made by Athanasius the Great, concerning the vse and vertue of the Psalmes</title>
+            <author>Athanasius, Saint, Patriarch of Alexandria, d. 373.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1580</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A22431</idno>
+            <idno type="STC">STC 885</idno>
+            <idno type="STC">ESTC S108219</idno>
+            <idno type="EEBO-CITATION">99843891</idno>
+            <idno type="PROQUEST">99843891</idno>
+            <idno type="VID">8653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A22431)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 8653)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 168:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A treatise made by Athanasius the Great, concerning the vse and vertue of the Psalmes</title>
+                  <author>Athanasius, Saint, Patriarch of Alexandria, d. 373.</author>
+               </titleStmt>
+               <extent>[8+] p.   </extent>
+               <publicationStmt>
+                  <publisher>S.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1580?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on A2v.</note>
+                  <note>Place of publication from STC; publication date suggested by MiU.</note>
+                  <note>Signatures: A2-5+; format from STC.h a fragment of an unidentified edition of: Sternhold and Hopkins.  Certain psalmes chosen out of the psalter of David.</note>
+                  <note>Copy catalogued is filmed with a fragment of an unidentified edition of: Sternhold and Hopkins.  Certain psalmes chosen out of the psalter of David.</note>
+                  <note>Copy catalogued imperfect: A fragment, consisting of leaves A2-5.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Psalms. --  English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:8653:1"/>
+            <pb facs="tcp:8653:1" rendition="simple:additions"/>
+            <head>A Treatiſe made by Athanaſius the Great, <hi>concerning the vſe and vertue of</hi> the Pſalmes.</head>
+            <p>
+               <hi>ALl holy Scripture is certainly the teacher of all vertue, and of the true faith: but the booke of the pſalmes doth expreſſe after a certaine manner the very ſtate and condition of the ſoule. For as he which intendeth to preſent himſelfe to a King will firſt compound himſelfe to ſet in good order both his geſture and his ſpeech, leſt als hee might be reputed rude and ignorant: euen ſo doth this godly booke in<g ref="char:EOLhyphen"/>forme all ſuch as be deſirous to lead their life in vertue, and to know the life of our Sauiour, which he led in his conuerſation, putting them in mind in the reading thereof, of all their affections and paſſions wher<g ref="char:EOLhyphen"/>to the ſoule is inclined.</hi>
+            </p>
+            <p>
+               <hi>Moreouer, the pſalmes informe and teach euery man with diuers in<g ref="char:EOLhyphen"/>ſtructions, whereby he may not onely ſpy the affections and ſtate of his ſoule, and to winne a good paterne and diſcipline how hee may pleaſe God, but alſo with what forme of words he may amend himſelfe, and how to giue God thanks, leaſt if he ſhould ſpeake otherwiſe then were conuenient, he should fall into impiety by his vnreuerent eſtimation of God: for wee must all make account to the Iudge, as well of our idle words as our ill deſerts.</hi>
+            </p>
+            <p>IF therefore thou wouldeſt at any time deſcribe a bleſſed man who he is, and what thing maketh him to be ſo, thou haſt the 1.32.41.112.128. Pſalmes.</p>
+            <p n="2">2 If thou wouldeſt rebuke the Iewes for their ſpight they haue to Chriſt, thou haſt the 2. pſalme.</p>
+            <p n="3">3 If thine owne familiars purſue thee; and if any riſe againſt thee, ſay the 3.143. Pſalmes.</p>
+            <p n="4">4 If thus in trouble thou haſt called on God, and haſt tarri<g ref="char:EOLhyphen"/>ed vpon his help, and wouldſt giue him thanks for that he hath heard thee with his help ſing the 4.40.116. pſalmes.</p>
+            <p n="5">5 If thou ſeeſt that euill men lay ſnares for thee, and there<g ref="char:EOLhyphen"/>fore deſireſt Gods eares to heare thy prayer, ſing the 5. pſalme.</p>
+            <p n="6">6 If thou feeleſt Gods dreadfull threats, and ſeeſt thy ſelfe a<g ref="char:EOLhyphen"/>fraid of them, thou mayſt ſay the 6.38.88. pſalmes.</p>
+            <p n="7">7 If any take counſell againſt thee, as Achitophel did againſt Dauid, if thou be admoniſhed thereof, ſing the 7. pſalme.</p>
+            <pb facs="tcp:8653:2"/>
+            <p n="8">8 If thou in beholding the grace of our Sauior ſpred on euery <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ally for the reſtoring of mankind to <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>uation, would<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st ſpeake thereof in meditation to God, ſing the 8. pſalme.</p>
+            <p n="9">9 If ſo againe thou wilt ſing in giuing thanks to God for the proſperous gathering of thy fruites, vſe the 8. pſalme.</p>
+            <p n="10">10 If thou wouldeſt haue thine aduerſaries kept, backe &amp; thy ſoule ſaued, truſt not in thy ſelfe, but in the Son of God, ſinging the 9. pſalme.</p>
+            <p n="11">11 If thou perceiueſt God to bee wroth with his people, as though he regarded them nothing, thou haſt to pacifie him, to complaine thereof, the 10, 60.74. pſalmes.</p>
+            <p n="12">12 If any man would put thee in feare, haue thou thy hope in God, and ſing the 11. pſalme.</p>
+            <p n="13">13 If thou beholdeſt the pride of many men, and ſeeſt malice to abound, ſo that there is no godlines among men, repaire then to God and ſay the 12. pſalme.</p>
+            <p n="14">14 If thine aduerſarie lie long in wait againſt thee, diſpaire not as though God had forgotten thee, but call vpon the Lord, and ſing the 3.6.22. pſalmes.</p>
+            <p n="15">15 If thou heareſt any to blaſpheme God in his prouidence, be not partaker with them in wickednes, but make haſt to God, and ſay the 14.55. pſalmes.</p>
+            <p n="16">16 If thou deſireſt to know who is a Cittizen of heauen, ſing the 15. pſalme.</p>
+            <p n="17">17 If thou haſt need of prayer for ſuch as be againſt thee, and haue cloſed thy ſoule on euery ſide, ſing the 16.17.86.141. pſal.</p>
+            <p n="18">18 If thou haſt eſcaped from thine enemies, and art deliuered from them who purſued thee, ſing thou the 18, 89. pſalmes.</p>
+            <p n="19">19 If thou doſt wonder at the order of things created by God, conſidering the grace of the diuine prouidence, ſing the 19.24. pſalmes.</p>
+            <p n="20">20 If thou ſeeſt any man in aduerſity, comfort him, and pray for <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>im with the 20. pſalme.</p>
+            <p n="21">
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>1 If thou perceiueſt thy ſelfe to be defended &amp; fed by God, and to liue proſperouſly, reioyce therein, and ſing the 23. pſalm.</p>
+            <p n="22">22 If thine enemies conſpire againſt thee, lift vp thy ſoule to God, and ſay the 23. pſalme, and thou ſhalt eſpy them to labour but in vaine againſt thee.</p>
+            <p n="23">23 If thine enemies cluſter againſt thee &amp; go about with their bloudy hands to deſtroy thee, go not thou about by mans helpe to reuenge it, for all mens iudgements are not truſty, but require God to be iudge, for he alone is iudge, &amp; ſay the 26.35, 43. pſal.</p>
+            <p n="24">24 If they preſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e more fiercely on thee, tho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gh they be in num<g ref="char:EOLhyphen"/>bers like an armed hoſt, feare them not which thus reiect thee, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ugh thou wert not anointed and elect by God; but ſing the 27. pſalme.</p>
+            <pb facs="tcp:8653:2"/>
+            <p n="25">25 If they be yet ſo impudent that lay wait againſt thee, ſo that it is not lawfull for thee to haue any vocation by them, re<g ref="char:EOLhyphen"/>gard them not, but ſing to God the 48. pſalme.</p>
+            <p n="26">26 If thou wilt exhort and prouoke Kings &amp; princes to ſub<g ref="char:EOLhyphen"/>mit their power to God, &amp; regard his honor ſing the 29.82, pſa.</p>
+            <p n="27">27 If thou renew and builde thine houſe, both of thy ſoule, whereto thou receiueſt God to hoſt, and of thy temporall habi<g ref="char:EOLhyphen"/>tation, ſing the 30.48.127. pſalmes.</p>
+            <p n="28">28 If thou ſeeſt thy ſelfe had in hate for the truths ſake of thy friends and kinsfolke, leaue not off thy purpoſe, nor feare them which be againſt thee, but thinke on them which follow, &amp; ſing the 31. pſalme.</p>
+            <p n="29">29 If thou beholdeſt ſuch as be baptiſed, &amp; ſo deliuered from the corruption of their byrth, praiſe thou the bountiful grace of God, and ſing the 32 pſalme.</p>
+            <p n="30">30 If thou delighteſt to ſing among many, cal together righ<g ref="char:EOLhyphen"/>teous men of godly life, and ſing the 33. pſalme.</p>
+            <p n="31">31 If by chance thou falleſt amongſt thine enemies, and yet haſt fortunately eſcaped them, if therfore thou wilt giue thanks, call together meeke men, and ſing the 34. pſalme.</p>
+            <p n="32">32 If thou ſeeſt wicked men contend among themſelues to do miſchiefe, thinke not that their Nature doth impell them by ne<g ref="char:EOLhyphen"/>ceſſity to worke ſin againſt their will, as certaine heretikes ſup<g ref="char:EOLhyphen"/>poſe, but conſider the 36. pſalme, and thou ſhalt perceiue that they be to themſelues their owne occaſion of ſinning.</p>
+            <p n="33">33 If thou ſeeſt how wicked men doe much wickednes, and that yet ſimple folke praiſe ſuch, when thou wilt admoniſh and man not to follow them, to be like vnto them, becauſe they ſhall bee ſhortly rooted out and deſtroyed; ſpeake to thy ſelfe and to other the 37. pſalme.</p>
+            <p n="34">34 If thou haſt decreed to take heed of thy ſelfe, &amp; ſeeſt thine enemy approch nigh thee, as againſt one whom the aduerſary is more prouoked to come with aſſault, and therefore wilt prepare thy ſelfe, ſing the 39. pſalme.</p>
+            <p n="35">35 If thou ſeeſt many poore men to beg, &amp; wilt ſhew pitty to them, thou mayſt both thy ſelfe receiue them to mercy, and alſo exhort other to do the ſame, ſaying the 41. pſalme.</p>
+            <p n="36">36 If thou haſt a deſire to Godward, &amp; heareſt thine enemies to vpbraid thee, be not troubled, but conſider what fruit of im<g ref="char:EOLhyphen"/>mortality riſeth to thee for this deſire, comfort thy Soule vvith hope to God, and ſo therein relieuing and aſſwaging the heaui<g ref="char:EOLhyphen"/>neſſe of thy life ſay the 42. pſalme.</p>
+            <p n="37">37 If thou wilt remember Gods benefits which he did to the fathers both in their out-going from Egypt and in the deſert, &amp; how good God was vnto them, but they vnthankfull to him, thou haſt the 44.78.89.102.106.114.117. pſalmes.</p>
+            <pb facs="tcp:8653:3"/>
+            <p n="38">38 If thou haſt made thy refuge to God, &amp; haſt eſcaped ſuch trouble <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> was prepared againſt thee, if thou wilt giue thankes and ſhew out his kindneſſe to thee, ſing the 46. pſalme.</p>
+            <p n="39">39 If thou wilt know how to giue thanks to God when thou doeſt reſort to him with ſound vnderſtanding, ſing the 47.48. pſalmes.</p>
+            <p n="40">40 If thou wilt exhort men to put their truſt in the liuing God, who miniſtreth all things aboundantly to good mens vſe, and blame the madneſſe of the world, which ſerueth their God Mammon ſo inordinately, ſing the 49. pſalme.</p>
+            <p n="41">41 If thou wouldſt call vpo<g ref="char:cmbAbbrStroke">̄</g> the blind world for their wrong confidence of their bruit ſacrifices, &amp; ſhew them what ſacrifice God moſt hath required of them, ſing the 50. pſalme.</p>
+            <p n="42">42 If thou haſt ſinned, and art conuetted, and moued to doe penance, deſirous to haue mercy, thou haſt the words of confeſ<g ref="char:EOLhyphen"/>ſion in the 51. pſalme.</p>
+            <p n="43">43 If thou haſt ſuffered falſe accuſation before the King, and ſeeſt the deuill to triumph thereat, go aſide &amp; ſay the 52. pſalm.</p>
+            <p n="44">44 If they which perſecute thee with accuſations would be<g ref="char:EOLhyphen"/>tray thee, as the Phariſies did Ieſus, and as the Aliants did Da<g ref="char:EOLhyphen"/>uid, diſcomfort not thy ſelfe there with, bue ſing in good hope to God the 54.57.69 pſalmes.</p>
+            <p n="45">45 If thine aduerſaries which trouble thee do vpbraid thee, and that they which ſeeme to be thy friends ſpeak moſt againſt thee, whereupon if in thy meditation thou art ſomewhat griued thereat, thou mayſt call on God, ſaying the 55. pſalme.</p>
+            <p n="46">46 If perſecution come fierce on thee, &amp; vnawares chance to enter into the caue wher thou hideſt thy ſelfe, feare not: for in this ſtrait thou haſt expedient words both to comfort thee, &amp; to put thee in reme<g ref="char:cmbAbbrStroke">̄</g>brance of his old mercy, with the 57.142. pſal.</p>
+            <p n="47">47 If thou wilt confound hypocrites which make glorious ſhewes out wardly, ſpeake their conuerſion with the 58. pſalme.</p>
+            <p n="48">48 If thy purſuers command thy houſe to be watched; when thou art eſcaped, giue thanks to God, &amp; graue it in the tables of thine hart for a perpetuall remembance, and ſay the 59. pſalme.</p>
+            <p n="49">49 If thine enemies cruelly aſſault thee, and would catch thy life, offer thy ſubiection to God againſt them, and be of good comfort: for the more they rage, the more ſhall GOD ſubdue them: and ſay the 62. pſalme.</p>
+            <p n="50">50 If thou flieſt perſecution, and getteſt thee into the wilder<g ref="char:EOLhyphen"/>nes, fear thou not, as though thou wett there alone, but hauing God nigh vnto thee, riſe to him early in the morning, ſinging the 63. pſalme.</p>
+            <p n="51">51 If thine enemies would put thee in feare, and neuer ceaſe <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o lay traine<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thee, and pick all maner quarrels againſt thee, though they be very many, giue no place to them: for the darts
+<pb facs="tcp:8653:3"/>of babes ſhall be their deſtruction, if thou ſayſt the 61.68.70.71. pſalmes.</p>
+            <p n="52">52 If thou wilt laud God with a pſalm or hymne, ſing the 65 66. pſalmes.</p>
+            <p n="53">53 If thou haſt need to confeſſe God, ſing the 67. Pſalme.</p>
+            <p n="54">54 If thou wouldſt ſing to the Lord, thou haſt what to ſay in the 96.98. pſalmes.</p>
+            <p n="55">55 If thou haſt need to confeſſe God with thankes, ſing the 71.75.92.128, 111, 118.136.138.139. pſalmes.</p>
+            <p n="56">56 If thou ſeeſt wicked men proſper in peace, be not offen<g ref="char:EOLhyphen"/>ded thereat, but ſay the 73. pſalme.</p>
+            <p n="57">57 If thine enemies haue beſet the wayes whither thou flieſt and art thereby in great anguiſh, yet in this trouble deſpaire not, but pray, and if thy praier be heard, giue God thankes, and ſay the 77. pſalme.</p>
+            <p n="58">58 If they preſeuer ſtill, and defile the houſe of God, kill the elect, and caſt their bodies to the foules of the ayre, feare not their cruelty, but ſhew pitty to them which be in ſuch agonie, and ſay the 29. pſalme.</p>
+            <p n="59">59 If thou wilt informe any man with the miſtery of the re<g ref="char:EOLhyphen"/>ſurrection, ſing the 8. pſalme.</p>
+            <p n="60">60 If thou wilt ſing to the Lord, call together Gods ſeruants on the ſeſtinall day, and ſing the 81.95.34. pſalmes.</p>
+            <p n="61">61 If thine aduerſaries flock together on euery ſide, &amp; thren<g ref="char:EOLhyphen"/>ten to deſtroy the houſe of God, and make their conſpiracies a<g ref="char:EOLhyphen"/>gainſt the Religion, let not their number and power trouble thee for thou haſt an anker of the words of the 83, pſalme.</p>
+            <p n="62">62 If thou caſt eſt an eye to Gods houſe and to his eternal ta<g ref="char:EOLhyphen"/>bernacles, and haſt a deſire thereto, as the Apoſtle had, ſay thou alſo the 84. pſalme.</p>
+            <p n="63">63 If Gods wrath be ceaſed, and the captiuity ended, thou haſt cauſe how to giue thanks to God with Dauid, recounting his goodneſſe to thee and others, with the 96.85.116 pſalmes.</p>
+            <p n="64">64 If thou wilt rebuke Paynims and hereticks, for that they haue not the knowledge of God in them, thou mayeſt haue an vnderſtanding to ſing to God the 86.115. pſalmes.</p>
+            <p n="65">65 If thou wilt ſee and know the diſſent that the Catholike Church hath from ſchiſme, and wouldeſt conuert them; or to diſcerne the Church concerning the outwarde appearance and ſonnes thereof, thou mayſt ſay the 87. pſalme.</p>
+            <p n="66">66 If thou wouldſt know how Moſes prayed to God, and in his meditation, recounting the brittle ſtate of mans life, deſired God to direct ſo his ſhort life that he might follow wiſedome, read the 90. pſalme.</p>
+            <p n="67">67 If thou wouldſt comfort thy ſelfe and others in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ne Reli<g ref="char:EOLhyphen"/>gion, and reach them, that hope in God, will neuer ſuffer a fool
+<pb facs="tcp:8653:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o be confounded, but make <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hold and without feare of Gods protection, ſing the 9. pſalme.</p>
+            <p n="68">68 If thou wilt ſing on the Sabbath day, thou haſt the 92 pſal.</p>
+            <p n="69">69 If thou wilt ſing on the Sunday in Meditation of Gods word, deſiring to be inſtructed therein, whereby thou mayſt reſt in Gods holy will, and ceaſe from all the works and doctrines of vaine men, reuolue that notable pſalme, 119.</p>
+            <p n="70">70 If thou wilt ſing in the ſecond day of the Sabbath, thou haſt the 95. pſalme.</p>
+            <p n="71">71 If thou wouldſt ſing to the Lord, thou haſt what to ſay in the 69.98. pſalmes.</p>
+            <p n="72">72 If thou wilt ſing the fourth day of the Sabbath, ſing the pſalm 94. for then when the Lord was betraied he began to take ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gea<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce on death, and to triumph of it: therefore when thou readeſt the Goſpell, wherin thou heareſt the Iewes to take coun<g ref="char:EOLhyphen"/>ſell againſt the Lord, and that he ſtandeth bodily againſt the di<g ref="char:EOLhyphen"/>uill, then ſing the foreſaid pſalme.</p>
+            <p n="73">73 If thou wilt ſing on Good-friday, thou haſt a commendati<g ref="char:EOLhyphen"/>on of the pſalme 63 for then was the houſe of Gods church buil<g ref="char:EOLhyphen"/>ded and groundly founded, though the enemies went about to hinder it: for which cauſe ſing to God the ſongs of triumphant victory, with the ſaid pſalme, and with the 98. and 129. pſalmes.</p>
+            <p n="74">74 If the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e be any captiuity wherein thy houſe is laide waſt, and yet builded againe, ſing the 96. pſalme.</p>
+            <p n="75">75 If the land be vext with enemies, &amp; after come to any reſt by the power of God, if thou wilt ſing therfo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, ſing the 97. pſal.</p>
+            <p n="76">76 If thou conſidereſt the prouidence of God in his gouer<g ref="char:EOLhyphen"/>nance ſo ouer all, and wilt inſtruct any with true ſaith and obe<g ref="char:EOLhyphen"/>dience when thou haſt firſt perſwaded them to confeſſe them<g ref="char:EOLhyphen"/>ſelues, ſing the 100.147. pſalmes.</p>
+            <p n="77">77 If thou doeſt acknowledge in God his iudiciall power, &amp; that in iudgement he mixeth mercy, if thou wilt draw nigh vnto him, thou haſt the words of the Pſalme 101. to the end.</p>
+            <p n="78">78 If for the imbicillity of thy nature thou art weary with the continuall miſeries and griefes of this life, and wouldſt comfort thy ſelfe, ſing the 102. pſalme.</p>
+            <p n="79">79 If thou wilt giue thanks to God, as it is moſt conuenient and due, for all his gifts; when thou wilt ſo do, thou haſt how to reioyce thy ſoule thereunto with the 103. and 104. pſalmes.</p>
+            <p n="80">80 If thou wilt praiſe God, and alſo know how and for what cauſe and with what words thou mayſt beſt doe it, conſider the 113.117, 133.146.147.148.149.150. pſalmes.</p>
+            <p n="81">81 If thou haſt faith to ſuch things as God ſpeaketh, and be<g ref="char:EOLhyphen"/>leeueſt that which in prayer thou vttereſt, ſay the pſalme 116. to the end.</p>
+            <p n="82">82 If thou ſeeleſt thy ſelfe to riſe vpward in degrees of well
+<pb facs="tcp:8653:4"/>working as thogh thou ſaidſt with S. Paul, I forget thoſe things which he behinde me, and ſet mine eies on things which be be<g ref="char:EOLhyphen"/>fore me, thou haſt the 130. pſalme.</p>
+            <p n="83">83 If thou beeſt holden in thraldome vnder ſtraying &amp; wan<g ref="char:EOLhyphen"/>dring thoughts, &amp; feeleſt thy ſelfe drawen by them, wherof thou art ſory, then ſtay thy ſelfe from henceforth, and tary where thou haſt found thy ſelfe in fault, ſet thee down, and mourne thou alſo as the Hebrew people did, and ſay with them the 137. Pſalme.</p>
+            <p n="84">84 If thou perceiueſt that temptations be ſent to prooue thee, thou oughteſt after ſuch tentations to giue God the thanks, and ſing the 139. pſalme.</p>
+            <p n="85">85 If yet thou be in bondage by thine enemies, and wouldeſt faine be deliuered, ſay the 140. pſalme.</p>
+            <p n="86">86 If thou wouldſt pray and make ſupplication, ſay the 141.142.143. pſalmes.</p>
+            <p n="87">87 If any tyrannous enemy riſe vp againſt the people, feare thou not, no more then Dauid did Goliah, but beleeue like Da<g ref="char:EOLhyphen"/>uid, and ſing the 144. pſalme.</p>
+            <p n="88">88 If thou art elect out of low degree, ſpecially before other, to ſome vocation to ſerue thy brethren, aduance not thy ſelfe too high againſt them in thine own power, but giue God the glory, who did chuſe thee, and ſing thou the 119. pſalme.</p>
+            <p n="89">89 If thou wilt ſing of obedience, praiſing God with <hi>Alleluia,</hi> thou haſt the 105.106.107.111.112.113.114.115.117.135.136.146.147.148.149.150. pſalmes.</p>
+            <p n="90">90 If thou wilt ſing ſpecially of our Sauior Chriſt, thou haſt of him in euery pſalme, but moſt chiefly in the 25.45.100. pſalms.</p>
+            <p n="91">91 Such pſalmes as ſhew his lawfull generation of his father, and hie corporall preſence, be the 11.69. pſalmes.</p>
+            <p n="92">92 Such as doe prophecy before of his moſt holy Croſſe and paſſion, telling how many deceitfull aſſaults he ſuſtained for vs, and how much he ſuffered, be the 2.129. pſalmes.</p>
+            <p n="93">93 Such as expreſſe the malicious enemies of the Iewes, and the betraying of Iudas, are the 21.50.55.69.72, 109. pſalms.</p>
+            <p n="94">94 Such as deſcribe his agony in his paſſion, death and ſepul<g ref="char:EOLhyphen"/>ture, be the 22.88. pſalmes.</p>
+            <p n="95">95 For his dominion &amp; preſenee in the fleſh, read the 116. pſ.</p>
+            <p n="96">96 Such as ſhew the glorious reſurrection of his body, be the 24.97. pſalmes.</p>
+            <p n="97">97 Such as ſet out his aſcenſion into heauen, are the 93.96.98 99<g ref="char:punc">▪</g> Pſalmes.</p>
+            <p n="98">98 And that he ſitteth on the right hand of his Father, the 110. pſalme maketh manifeſt.</p>
+            <p n="99">99 Such as ſhew that he hath authority of his father to iudge, expreſſing his iudiciall power, both in condemning the diuill, &amp; all wicked Nations, are the 50.72, 82. pſalmes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:8653:5"/>
+            <pb facs="tcp:8653:5"/>
+            <pb facs="tcp:8653:6"/>
+            <pb facs="tcp:8653:6"/>
+            <pb facs="tcp:8653:7"/>
+            <pb facs="tcp:8653:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
